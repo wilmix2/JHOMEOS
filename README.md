@@ -9,6 +9,16 @@ a) SLIDE DESKTOP b) VISUAL DESKTOP
 
 C) NAVIGATION DESKTOP
 
+
+Note: JHOME  is  invented   in  JDollar  Technology  at  year  2014   and now  it's  name   is  changed  as
+
+WINIX  OS.
+
+Kindly  see  Google  code   for  more  details ...
+
+
+  Google  code : https://code.google.com/p/jhomeos/
+
 note: WINIX  is the advanced  os.
 ====
 
